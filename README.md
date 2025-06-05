@@ -2,15 +2,15 @@
 
 
 <div align="left">
-  <img width="80%" src=".github/summary2_1.gif">
+  <img width="100%" src=".github/summary2_1.gif">
 </div>
 <br><br><br>
 <div align="left">
-  <img width="80%" src=".github/summary2_2.gif">
+  <img width="100%" src=".github/summary2_2.gif">
 </div>
 <br>
 <div align="left">
-  <img width="80%" src=".github/summary2_3-5.gif">
+  <img width="100%" src=".github/summary2_3-5.gif">
 </div>
 
 ### ***Official implementation & data for:***
